@@ -45,6 +45,10 @@ We propose an **AI-powered Shoplifting Detection System** that utilizes deep lea
 ### 🧠 2\1. Model Output Sample
  ![image](https://github.com/user-attachments/assets/e464ba6c-9322-475c-9492-8bdae78137fa)
  ![image](https://github.com/user-attachments/assets/db5c8b2f-d7fd-4633-84f2-3e6716320bcd)
+ ![image](https://github.com/user-attachments/assets/569923db-5a31-4e9a-948e-ad4ec710c86b)
+ ![image](https://github.com/user-attachments/assets/3fdb8305-3595-4a7d-bc45-efe796560ba5)
+
+
 
 
 
